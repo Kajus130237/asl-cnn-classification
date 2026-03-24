@@ -51,19 +51,6 @@ Dense(27, Softmax)
 
 ---
 
-## 📁 Project Structure
-
-```
-asl-cnn-classification/
-├── ASL_Hand_gesture_classification_CNN.pdf  # Full research report
-├── train.ipynb                              # Model training & hyperparameter search
-├── evaluate.ipynb                           # Evaluation & confusion matrix
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🔬 Methodology
 
 ### Dataset
@@ -121,4 +108,3 @@ The complete research paper with methodology, results, confusion matrix, and ana
 **Rusnė Andrulevičiūtė** — Literature review, hyperparameter search, visualizations, SVM baseline, presentation
 
 📧 kajus.miseviciu@ua.pt  
-🏠 [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
