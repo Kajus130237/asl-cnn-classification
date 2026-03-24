@@ -7,6 +7,9 @@ Classifying **27 American Sign Language (ASL) gestures** (A–Z + space) from RG
 Achieved **92.00% test accuracy** without any external pose estimation (MediaPipe-free).
 
 ---
+### DATA SET:
+https://www.kaggle.com/datasets/srisahithis/american-sign-language-a-z-dataset-hand-landmarks/data
+---
 
 ## 📊 Results at a Glance
 
