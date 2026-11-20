@@ -108,6 +108,5 @@ The complete research paper with methodology, results, confusion matrix, and ana
 ## 👥 Authors
 
 **Kajus Misevičius** — Dataset preparation, CNN implementation & training, confusion matrix analysis, report writing  
-**Rusnė Andrulevičiūtė** — Literature review, hyperparameter search, visualizations, SVM baseline, presentation
 
 📧 kajus.miseviciu@ua.pt  
